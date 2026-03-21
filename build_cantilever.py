@@ -1,6 +1,5 @@
 import FreeCAD as App
 import Part
-import math
 from standards import RailSpecs, Tolerances, Materials
 
 def build_part():
